@@ -1,0 +1,22 @@
+{"properties": [
+  {
+    "name": "spring.datasouerce.driver-class-name",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasouerce.driver-class-name'"
+  },
+  {
+    "name": "spring.datasouerce.password",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasouerce.password'"
+  },
+  {
+    "name": "spring.datasouerce.username",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasouerce.username'"
+  },
+  {
+    "name": "spring.datasouerce.url",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasouerce.url'"
+  }
+]}
